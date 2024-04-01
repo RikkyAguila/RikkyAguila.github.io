@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -59,7 +58,7 @@
 
 <div class="container">
     <div class="project">
-        <h2>Project 1</h2>
+        <h2>Predictive Model on Titanic survivors</h2>
         <p>Description of Project 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet eros eget odio fermentum, eget aliquet quam viverra.</p>
         <p><a href="#">View Project</a></p>
     </div>

@@ -58,9 +58,9 @@
 
 <div class="container">
     <div class="project">
-        <h2>Predictive Model on Titanic survivors</h2>
-        <p>Description of Project 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet eros eget odio fermentum, eget aliquet quam viverra.</p>
-        <p><a href="#">View Project</a></p>
+        <h2>STA 5650 Project</h2>
+        <p>Description of STA 5650 Project.</p>
+        <p><a href="https://<username>.github.io/<repositoryname>/STA%205650%20project%20%281%29.pdf" target="_blank">View STA 5650 Project (PDF)</a></p>
     </div>
 
     <div class="project">
